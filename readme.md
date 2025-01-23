@@ -1,4 +1,4 @@
-# NVDA controller uncancel
+# NVDA Controller Uncancel
 
 Prevents speech interruption for programs using the nvdaController library.
 
@@ -13,6 +13,11 @@ The addon does not need to be configured, nor does it have its own gestures (hot
 Simply install it and it will start working.
 
 ## Changelog
+### 0.1.3
+Minor fixes.
+
+### 0.1.2
+Minor fixes.
 
 ### 0.1.1
 
