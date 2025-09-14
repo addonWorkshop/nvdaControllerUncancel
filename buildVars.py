@@ -27,7 +27,7 @@ addon_info = {
 		"Prevents speech interruption for programs using the nvdaController library."
 	),
 	# version
-	"addon_version": "0.1.3",
+	"addon_version": "0.2.0",
 	# Author(s)
 	"addon_author": "Danstiv <danstiv@yandex.ru>",
 	# URL for the add-on documentation support
